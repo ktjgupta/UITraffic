@@ -33,26 +33,15 @@ Currently, we have both a mobile app and a website. The mobile app will periodic
 - Javascript was used to send get and post requests to the backend and parse the results
 - JQuery and AJAX  were used to handle user input through the slider
 
-## Difficulties
-
-- Many different libraries were used for the mobile app, and getting all the different libraries and versions wot work together took a long time
-- Javascript is a questionable language
-- Testing was inconvenient because in order to see how the website would interact with the database, Matthew had to host the website on a server every single time we wanted to test.
-
 
 ------------
 
 ## Group Members
+- Kshitij Gupta
 - Kevin Palani
 - Matthew Pham
 - Jacqueline Chen
-- Kshitij Gupta
 - Elliot Segal
-
-### Special Thanks To:
-- Lam Tran
-- Taojun (David) Wang
-
 ------------
 
 ## Mobile App Installation Instructions
